@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Thaís 😁
+## Bem-vindo(a) ao perfil da Thaís!
 
  <div>
    <a href="https://github.com/thais-alvess">
